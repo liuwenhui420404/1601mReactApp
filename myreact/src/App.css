@@ -1,0 +1,17 @@
+.App {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.wrap{
+  width:400px;
+  height: 300px;
+  border:2px solid #ccc;
+}
+.child{
+  width:300px;
+  height: 200px;
+  border:2px solid pink;
+}
+
+
