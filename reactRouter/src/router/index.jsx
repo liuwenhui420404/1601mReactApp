@@ -6,11 +6,10 @@ import {
 } from "react-router-dom"
 
 import App from "../commponents/app.jsx"
-import Index from "../commponents/index.jsx"
+import Index from "../commponents/index.jsx"  
 import List1 from "../commponents/list/list1.jsx"
 import List2 from "../commponents/list/list2.jsx"
 import List3 from "../commponents/list/list3.jsx"
-// import List1litle from '../commponents/secondRouter'
 import Recommend from '../commponents/secondRouter/list1recommend.jsx'
 import Hot from '../commponents/secondRouter/list1hot.jsx'
 import Newest from '../commponents/secondRouter/list1newest.jsx'
@@ -33,7 +32,6 @@ function RouterCom(){
 // 创建pc的二级路由
 var SecondRouter=()=>{
     return <List1>
-
                 <Route path='/list1/recommend' component={Recommend}/>
                 <Route path='/list1/hot' component={Hot}/>
                 <Route path='/list1/newest' component={Newest}/>

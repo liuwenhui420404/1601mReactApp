@@ -1,0 +1,39 @@
+[
+    {
+        "name":"别克君越2012款2.4LS|D|雅致版",
+        "id":1,
+        "particulars":"2012年09月7.99万公里⑨北京",
+        "price":9.20,
+        "url":"http://img4.imgtn.bdimg.com/it/u=2980932898,3293441938&fm=27&gp=0.jpg"
+    },{
+        "name":"日产-天籁2011款20LXL舒适版",
+        "id":1,
+        "particulars":"2010年12月6.77万公里⑨北京",
+        "price":7.25,
+        "url":"http://img4.imgtn.bdimg.com/it/u=2980932898,3293441938&fm=27&gp=0.jpg"
+    },{
+        "name":"马自达-62012款20L自动时尚型",
+        "id":1,
+        "particulars":"2013年01月3.10万公里⑨北京",
+        "price":8.50,
+        "url":"http://img4.imgtn.bdimg.com/it/u=2980932898,3293441938&fm=27&gp=0.jpg"
+    },{
+        "name":"别克-GL82014款24L舒适版",
+        "id":1,
+        "particulars":"2015年02月6.22万公里⑨北京",
+        "price":14.28,
+        "url":"http://img4.imgtn.bdimg.com/it/u=2980932898,3293441938&fm=27&gp=0.jpg"
+    },{
+        "name":"标致-3072007款改款1.6L手动舒适版",
+        "id":1,
+        "particulars":"2009年08月7.23万公里⑨北京",
+        "price":2.50,
+        "url":"http://img4.imgtn.bdimg.com/it/u=2980932898,3293441938&fm=27&gp=0.jpg"
+    },{
+        "name":"mini-mini 2016 1.5T COOPER",
+        "id":1,
+        "particulars":"2016年10月3.16万公里⑨北京",
+        "price":5.60,
+        "url":"http://img4.imgtn.bdimg.com/it/u=2980932898,3293441938&fm=27&gp=0.jpg"
+    }
+]
