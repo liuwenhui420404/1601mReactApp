@@ -90,4 +90,5 @@ export let actions={
         }
     }
 }
-export default createStore(reducer)
+
+export default  createStore(reducer)
